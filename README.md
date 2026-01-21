@@ -148,20 +148,87 @@ Have a Firebase optimization pattern to share? Contributions welcome!
 
 ---
 
-## 💖 Support This Work
+## 💖 Support This Project
 
-If these examples are saving you money on Firebase costs, consider supporting continued development:
+**These examples are 100% free.** If they're helping you save hundreds or thousands per year, consider supporting continued development.
 
-**Support Options:**
+### 💝 **Saving Money? Support This Work!**
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github&style=for-the-badge)](https://github.com/sponsors/tthbfo2)
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal&style=for-the-badge)](https://paypal.me/tthbfo2)
+We suggest **1-5% of your first month's savings** as a fair one-time contribution:
 
-**Or contribute in other ways:**
-- ⭐ Star this repository
-- 💬 Share your success story
-- 🐛 Report bugs or suggest examples
-- 📝 Write a blog post about your experience
+| Your Savings | Suggested Donation Range |
+|--------------|-------------------------|
+| $100-500/month | $5-25 one-time |
+| $500-2,000/month | $25-100 one-time |
+| $2,000-5,000/month | $100-250 one-time |
+| $5,000+/month | $250-500+ one-time |
+
+---
+
+### 💎 Support Tiers
+
+Choose the level that matches your savings:
+
+#### ☕ Coffee Support - $5
+**Best for:** Saved $100-500/month
+
+**What you get:**
+- ✅ Thank you email
+- ✅ Listed as supporter (optional)
+- ✅ Access to supporters-only updates
+
+**[☕ Support with $5 on Ko-fi](https://ko-fi.com/tthbfo2)**
+
+---
+
+#### 🚀 Standard Support - $25 ⭐ MOST POPULAR
+**Best for:** Saved $500-2,000/month
+
+**What you get:**
+- ✅ Everything in Coffee tier
+- ✅ **Priority bug reports** (48hr response)
+- ✅ Featured supporter badge
+- ✅ Early access to new features
+
+**[☕ Support with $25 on Ko-fi](https://ko-fi.com/tthbfo2)**
+
+---
+
+#### 💎 Premium Support - $100
+**Best for:** Saved $2,000-5,000/month
+
+**What you get:**
+- ✅ Everything in Standard tier
+- ✅ **1 hour optimization consultation** (video call)
+- ✅ Custom configuration review
+- ✅ Direct support channel (email/Discord)
+
+**[☕ Support with $100 on Ko-fi](https://ko-fi.com/tthbfo2)**
+
+---
+
+#### 🏢 Enterprise Support - $500+
+**Best for:** Saved $5,000+/month
+
+**What you get:**
+- ✅ Everything in Premium tier
+- ✅ **Custom optimization strategy session** (2 hours)
+- ✅ Team training for up to 5 developers
+- ✅ Ongoing support package (3 months)
+
+**[☕ Support with $500+ on Ko-fi](https://ko-fi.com/tthbfo2)**
+
+---
+
+### 🙏 Can't Donate Right Now?
+
+**No problem!** You can support this project for free by:
+
+- ⭐ **Star the repository** - Help other developers discover these examples
+- 💬 **Share your success story** - Leave a testimonial in GitHub Discussions
+- 🐦 **Share on social media** - Tweet/LinkedIn about your savings
+- 📝 **Write a blog post** - Share your experience and integration
+- 🤝 **Provide feedback** - Share ideas & suggestions or report bugs
 
 ---
 
