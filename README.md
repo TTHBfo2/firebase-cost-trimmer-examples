@@ -51,6 +51,14 @@ const data = await optimizer.readDocument('user-123', 'products/product-1');
 
 ---
 
+## 💖 **Saving Money? Support This Project!**
+
+**These examples are 100% free.** If they're helping you save hundreds or thousands per year, [**consider a one-time donation**](https://ko-fi.com/tthbfo2) to support continued development.
+
+**[☕ Support on Ko-fi](https://ko-fi.com/tthbfo2)** • [View all support options ↓](#support-this-project)
+
+---
+
 ## 📚 Examples by Use Case
 
 ### [01 - Basic Setup](examples/01-basic-setup/)
@@ -148,9 +156,7 @@ Have a Firebase optimization pattern to share? Contributions welcome!
 
 ---
 
-## 💖 Support This Project
-
-**These examples are 100% free.** If they're helping you save hundreds or thousands per year, consider supporting continued development.
+## Support This Project
 
 ### 💝 **Saving Money? Support This Work!**
 
