@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import { useDocument } from '@tthbfo2/firebase-db-optimizer/react';
+import { useDocument } from '@tthbfo2/firebase-cost-trimmer/react';
 
 function ProductDetail({ productId, onBack }) {
   // useDocument automatically handles caching, loading states, and errors

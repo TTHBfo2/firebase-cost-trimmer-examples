@@ -5,7 +5,7 @@ Basic Node.js setup showing how to integrate the Firebase DB Optimizer in under 
 ## Installation
 
 ```bash
-npm install @tthbfo2/firebase-db-optimizer firebase
+npm install @tthbfo2/firebase-cost-trimmer firebase
 ```
 
 ## Complete Working Example

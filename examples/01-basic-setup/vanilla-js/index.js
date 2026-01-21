@@ -6,7 +6,7 @@
  */
 
 import { initializeApp } from 'firebase/app';
-import { quickFirebase } from '@tthbfo2/firebase-db-optimizer';
+import { quickFirebase } from '@tthbfo2/firebase-cost-trimmer';
 
 // Your Firebase configuration
 // Get this from Firebase Console > Project Settings > General

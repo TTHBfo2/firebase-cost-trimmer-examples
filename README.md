@@ -3,11 +3,11 @@
 > Real-world examples and tutorials for reducing Firebase Firestore costs by 40-50% using production-grade caching.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![npm package](https://img.shields.io/badge/npm-%40tthbfo2%2Ffirebase--db--optimizer-red)](https://www.npmjs.com/package/@tthbfo2/firebase-db-optimizer)
+[![npm package](https://img.shields.io/badge/npm-%40tthbfo2%2Ffirebase--cost--trimmer-red)](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer)
 
 ## 💰 What This Repository Offers
 
-This repository contains **copy-paste ready examples** showing how to dramatically reduce Firebase Firestore costs using [@tthbfo2/firebase-db-optimizer](https://www.npmjs.com/package/@tthbfo2/firebase-db-optimizer), a production-ready TypeScript library.
+This repository contains **copy-paste ready examples** showing how to dramatically reduce Firebase Firestore costs using [@tthbfo2/firebase-cost-trimmer](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer), a production-ready TypeScript library.
 
 **Each example includes:**
 - ✅ Working code you can copy directly
@@ -20,14 +20,14 @@ This repository contains **copy-paste ready examples** showing how to dramatical
 ### Installation
 
 ```bash
-npm install @tthbfo2/firebase-db-optimizer firebase
+npm install @tthbfo2/firebase-cost-trimmer firebase
 ```
 
 ### 30-Second Setup
 
 ```typescript
 import { initializeApp } from 'firebase/app';
-import { quickFirebase } from '@tthbfo2/firebase-db-optimizer';
+import { quickFirebase } from '@tthbfo2/firebase-cost-trimmer';
 
 // 1. Initialize Firebase normally
 const app = initializeApp({ /* your config */ });
@@ -167,8 +167,8 @@ If these examples are saving you money on Firebase costs, consider supporting co
 
 ## 📦 Related Projects
 
-- **[@tthbfo2/firebase-db-optimizer](https://www.npmjs.com/package/@tthbfo2/firebase-db-optimizer)** - The optimization library (npm package)
-- **[Official Documentation](https://www.npmjs.com/package/@tthbfo2/firebase-db-optimizer#readme)** - Complete API reference
+- **[@tthbfo2/firebase-cost-trimmer](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer)** - The optimization library (npm package)
+- **[Official Documentation](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer#readme)** - Complete API reference
 
 ---
 

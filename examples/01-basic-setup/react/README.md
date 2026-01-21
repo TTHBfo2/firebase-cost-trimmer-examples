@@ -5,7 +5,7 @@ Production-ready React example showing how to use Firebase DB Optimizer with Rea
 ## Installation
 
 ```bash
-npm install @tthbfo2/firebase-db-optimizer firebase react react-dom
+npm install @tthbfo2/firebase-cost-trimmer firebase react react-dom
 ```
 
 ## What This Example Includes
@@ -29,8 +29,8 @@ npm install @tthbfo2/firebase-db-optimizer firebase react react-dom
 
 ```jsx
 import { initializeApp } from 'firebase/app';
-import { quickFirebase } from '@tthbfo2/firebase-db-optimizer';
-import { OptimizerProvider } from '@tthbfo2/firebase-db-optimizer/react';
+import { quickFirebase } from '@tthbfo2/firebase-cost-trimmer';
+import { OptimizerProvider } from '@tthbfo2/firebase-cost-trimmer/react';
 
 const app = initializeApp({ /* your config */ });
 const optimizer = quickFirebase(app, 'balanced');
@@ -53,7 +53,7 @@ function App() {
 ### 2. Use hooks in components
 
 ```jsx
-import { useDocument } from '@tthbfo2/firebase-db-optimizer/react';
+import { useDocument } from '@tthbfo2/firebase-cost-trimmer/react';
 
 function ProductDetail({ productId }) {
   const { data, loading, error } = useDocument(

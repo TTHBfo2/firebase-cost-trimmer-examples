@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import { useCollection, useCacheStats } from '@tthbfo2/firebase-db-optimizer/react';
+import { useCollection, useCacheStats } from '@tthbfo2/firebase-cost-trimmer/react';
 
 function ProductList({ onProductClick }) {
   const [category, setCategory] = React.useState('all');

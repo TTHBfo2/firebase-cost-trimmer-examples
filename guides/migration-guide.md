@@ -13,7 +13,7 @@ Step-by-step guide to migrate your existing Firebase app to use the DB Optimizer
 ## Step 1: Install the Package
 
 ```bash
-npm install @tthbfo2/firebase-db-optimizer
+npm install @tthbfo2/firebase-cost-trimmer
 ```
 
 ---
@@ -39,7 +39,7 @@ const data = docSnap.data();
 
 ```typescript
 import { initializeApp } from 'firebase/app';
-import { quickFirebase } from '@tthbfo2/firebase-db-optimizer';
+import { quickFirebase } from '@tthbfo2/firebase-cost-trimmer';
 
 const app = initializeApp(firebaseConfig);
 const optimizer = quickFirebase(app, 'balanced'); // ← Add this one line!
@@ -152,7 +152,7 @@ function ProductDetail({ productId }) {
 ### After (Optimizer Hooks):
 
 ```jsx
-import { useDocument } from '@tthbfo2/firebase-db-optimizer/react';
+import { useDocument } from '@tthbfo2/firebase-cost-trimmer/react';
 
 function ProductDetail({ productId }) {
   const { data, loading } = useDocument(
@@ -210,7 +210,7 @@ console.log('Money saved:', '$' + (stats.cacheHits * 0.000036).toFixed(6));
 
 **In React:**
 ```jsx
-import { useCacheStats } from '@tthbfo2/firebase-db-optimizer/react';
+import { useCacheStats } from '@tthbfo2/firebase-cost-trimmer/react';
 
 function CacheMonitor() {
   const stats = useCacheStats();
@@ -227,7 +227,7 @@ function CacheMonitor() {
 
 ## Migration Checklist
 
-- [ ] Install `@tthbfo2/firebase-db-optimizer`
+- [ ] Install `@tthbfo2/firebase-cost-trimmer`
 - [ ] Wrap Firebase app with `quickFirebase()`
 - [ ] Add `registerUser()` to authentication flow
 - [ ] Replace `getDoc()` calls with `readDocument()`
@@ -315,7 +315,7 @@ A: Yes! The optimizer is client-side only. Your backend code stays the same.
 
 - [GitHub Discussions](https://github.com/tthbfo2/firebase-optimization-examples/discussions)
 - [Report Issues](https://github.com/tthbfo2/firebase-optimization-examples/issues)
-- [npm Package Documentation](https://www.npmjs.com/package/@tthbfo2/firebase-db-optimizer)
+- [npm Package Documentation](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer)
 
 ---
 

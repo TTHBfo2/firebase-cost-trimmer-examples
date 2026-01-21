@@ -7,8 +7,8 @@
 
 import React from 'react';
 import { initializeApp } from 'firebase/app';
-import { quickFirebase } from '@tthbfo2/firebase-db-optimizer';
-import { OptimizerProvider } from '@tthbfo2/firebase-db-optimizer/react';
+import { quickFirebase } from '@tthbfo2/firebase-cost-trimmer';
+import { OptimizerProvider } from '@tthbfo2/firebase-cost-trimmer/react';
 import ProductDetail from './ProductDetail';
 import ProductList from './ProductList';
 
