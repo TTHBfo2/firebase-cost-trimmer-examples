@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![npm package](https://img.shields.io/badge/npm-%40tthbfo2%2Ffirebase--cost--trimmer-red)](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer)
 
+
+🌐 **[Visit trimwares.com](https://trimwares.com)** - Official website & documentation
 ## 💰 What This Repository Offers
 
 This repository contains **copy-paste ready examples** showing how to dramatically reduce Firebase Firestore costs using [@tthbfo2/firebase-cost-trimmer](https://www.npmjs.com/package/@tthbfo2/firebase-cost-trimmer), a production-ready TypeScript library.
@@ -53,9 +55,9 @@ const data = await optimizer.readDocument('user-123', 'products/product-1');
 
 ## 💖 **Saving Money? Support This Project!**
 
-**These examples are 100% free.** If they're helping you save hundreds or thousands per year, [**consider a one-time donation**](https://ko-fi.com/tthbfo2) to support continued development.
+**These examples are 100% free.** If they're helping you save hundreds or thousands per year, [**consider monthly support**](https://ko-fi.com/tthbfo2) to support continued development.
 
-**[☕ Support on Ko-fi](https://ko-fi.com/tthbfo2)** • [View all support options ↓](#support-this-project)
+**[☕ Monthly Support on Ko-fi](https://ko-fi.com/tthbfo2/tiers) • [One-time donation](https://ko-fi.com/tthbfo2)** • [View all support options ↓](#support-this-project)
 
 ---
 
